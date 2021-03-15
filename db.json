@@ -1,27 +1,27 @@
 {
   "notify": [
     {
-      "main": true
+      "main": true,
       "title": "Test1"
     },
     {
-      "main": true
+      "main": true,
       "title": "Test2"
     },
     {
-      "main": true
+      "main": true,
       "title": "Test3"
     },
     {
-      "main": true
+      "main": true,
       "title": "Test4"
     },
     {
-      "main": true
+      "main": true,
       "title": "Test5"
     },
     {
-      "main": true
+      "main": true,
       "title": "Test6"
     }
   ]
